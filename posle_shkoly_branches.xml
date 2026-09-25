@@ -3,9 +3,9 @@
   <company>
     <company-id>75100374737</company-id>
     <name lang="ru">После школы</name>
-    <address lang="ru">Россия, Архангельская область, Архангельск, улица Гайдара, 57, корп. 1</address>
-    <country lang="ru">Россия</country>
-    <address-add lang="ru">этаж 3, кабинет 309</address-add>
+    <address lang="ru">Россия, Архангельская область, Архангельск, улица Гайдара, 57, корп. 1, этаж 3, кабинет 309</address>
+<country lang="ru">Россия</country>
+
     <phone>
       <number>8 (995) 601-24-14</number>
       <type>phone</type>
